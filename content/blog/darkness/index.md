@@ -1,30 +1,36 @@
 ---
-title: Darkness
-date: "2019-05-08"
-thumbnail: ./bbbb.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+title: Residential
+date: "2019-05-07"
+thumbnail: ./r3.jpeg
+description: Everest loves keeping homes cool in the summer and warm in the winter
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
+<p> Nothing worse than coming home on a hot summer and sweating more at home than outside <p>
 
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
+## Before
 
-This is the final render.
+<div class="kg-card kg-image-card kg-width-card">
 
-<div class="kg-card kg-image-card kg-width-full">
-
-![Darkness](./BLACK_II_desktop-1.jpg)
+![Residential](./r1.jpeg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
+<div class="kg-card kg-image-card kg-width-card">
 
-![Darkness](./BLACK_IX_desktop-1.jpg)
+![Residential](./r2.jpeg)
 
 </div>
 
-<div class="kg-card kg-image-card kg-width-full">
+## After
 
-![Darkness](./BLACK_I_desktop-1.jpg)
+<div class="kg-card kg-image-card kg-width-card">
+
+![Residential](./r3.jpeg)
+
+</div>
+
+<div class="kg-card kg-image-card kg-width-card">
+
+![Residential](./r4.jpeg)
 
 </div>

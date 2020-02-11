@@ -1,10 +1,12 @@
 ---
-title: It's all blue
+title: About Us
 date: "2019-05-06"
-thumbnail: ./cody-davis-253928-unsplash.jpg
-description: What if everything you knew was turned to blue?
+thumbnail: ./everest.jpg
+description: Everest will be your last stop to all your promblems. We do AC Services, AC Repair, AC Replacement, AC Maintance and Attic Insulation
 ---
 
-![It's all blue](./cody-davis-253925-unsplash.jpg)
+<div class="kg-card kg-image-card kg-width-card">
 
-![It's all blue](./cody-davis-259003-unsplash.jpg)
+![About Us](./everest1.jpeg)
+
+</div>

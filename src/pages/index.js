@@ -24,7 +24,7 @@ const BlogIndex = ({ data }, location) => {
       {data.site.siteMetadata.description && (
         <header className="page-head">
           <h2 className="page-head-title">
-            {data.site.siteMetadata.description}
+            Coolest prices, hottest workers. Give us a call today and start living fresh.
           </h2>
         </header>
       )}
