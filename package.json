@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-london",
+  "name": "gatsby-everest",
   "private": true,
   "description": "A custom, image-centric theme for Gatsby",
   "version": "1.0.0",
-  "author": "Imed Adel <aadelimed@gmail.com>",
+  "author": "Wilson <wilsonabenitez98@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ImedAdel/gatsby-london/issues"
+    "url": "https://github.com/wilson21x/everestac"
   },
   "dependencies": {
     "gatsby": "^2.4.2",
