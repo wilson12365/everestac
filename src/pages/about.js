@@ -23,7 +23,7 @@ const AboutPage = ({ data }, location) => {
           </h3>
           <h3 id="dynamic-styles">Where?</h3>
           <p>
-            Everest mainly works in Houston and its outskirts. If you're out of town don't
+            Everest works mainly in Houston and its outskirts. If you're out of town don't
             be shy to call, we will make that trip!
           </p>
           <figure className="kg-card kg-image-card kg-width-full">
