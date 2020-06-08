@@ -6,7 +6,7 @@
     ```sh
     cd my-awesome-portfolio/
     gatsby develop
-    `http://localhost:8000`
+    url => `http://localhost:8000`
     ```
 
 <!-- AUTO-GENERATED-CONTENT:END -->
