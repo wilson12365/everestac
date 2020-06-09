@@ -36,7 +36,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-            Everest Air Conditioning and Heating
+            Everest
             </Link>
           </div>
           <div className="site-head-right">
