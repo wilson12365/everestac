@@ -1,5 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
+import EverestLogo from "../images/Logo.jpg"
 
 const Layout = props => {
   const { title, children } = props
@@ -36,7 +37,7 @@ const Layout = props => {
           </nav>
           <div className="site-head-center">
             <Link className="site-head-logo" to={`/`}>
-            Everest
+            <img src={EverestLogo} alt="Everest"/>
             </Link>
           </div>
           <div className="site-head-right">
