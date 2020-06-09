@@ -15,19 +15,19 @@ There is no limit here. We do our best to keep our guests happy at all time, fro
 
 </div>
 
-<div class="kg-card kg-image-card">
+<div class="kg-card kg-image-card kg-width-card">
 
 ![Commercial](./3.jpeg)
 
 </div>
 
-<div class="kg-card kg-image-card">
+<div class="kg-card kg-image-card kg-width-card">
 
 ![Commercial](./4.jpeg)
 
 </div>
 
-<div class="kg-card kg-image-card">
+<div class="kg-card kg-image-card kg-width-card">
 
 ![Commercial](./5.jpg)
 
